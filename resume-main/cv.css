@@ -1,0 +1,42 @@
+body{
+    width: 50%;
+    margin-left: 30%;
+    border: 2px solid black;
+    padding: 20px;   
+}
+
+#head{
+   display: flex;
+   align-items: stretch;
+   justify-content: space-between;
+   background-color: blue;
+   color: white;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+h2{
+   text-decoration: double underline;
+    text-decoration-color: blue;
+    color: white;
+    background-color: black;
+}
+h4{
+    text-decoration: underline;
+    color: black;
+}
+img{
+    background-color: blue;
+}
+.contact{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.main{
+    background-color:ghostwhite;
+}
+td,th{
+    padding: 5px;
+}
